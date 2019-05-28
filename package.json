@@ -1,0 +1,33 @@
+{
+  "name": "react-cnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.32.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.0.0",
+    "@types/react": "^16.8.18",
+    "@types/react-dom": "^16.8.4",
+    "babel-loader": "^8.0.6",
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config build/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeviok/react-cnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeviok/react-cnode/issues"
+  },
+  "homepage": "https://github.com/leeviok/react-cnode#readme"
+}
